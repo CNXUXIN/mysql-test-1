@@ -1,5 +1,5 @@
 ## 题目1：建立一个mysql database, 包含以下两张表：
-'''sql
+```sql
 mysql> SHOW DATABASES;
 +--------------------+
 | Database           |
@@ -7,14 +7,15 @@ mysql> SHOW DATABASES;
 | information_schema |
 | class1             |
 | class2             |
+| class_1            |
+| class_17060112     |
 | company            |
 | databasetest       |
 | mysql              |
 | performance_schema |
-| sys                |
 +--------------------+
-8 rows in set (0.05 sec)
-'''
+9 rows in set (0.02 sec)
+```
 
 ## 题目2：如何join两张表
 
