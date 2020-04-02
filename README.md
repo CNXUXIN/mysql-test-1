@@ -1,4 +1,5 @@
-## 题目1：建立一个mysql database, 包含以下两张表：
+## 姓名：徐鑫 学号：17061527
+
 ```sql
 mysql> SHOW DATABASES;
 +--------------------+
@@ -15,13 +16,9 @@ mysql> SHOW DATABASES;
 | performance_schema |
 +--------------------+
 9 rows in set (0.02 sec)
+mysql> use class_17060112;
+Database changed
+mysql> show tables;
+3 rows in set (0.00 sec)
 ```
 ![](https://github.com/CNXUXIN/mysql-test-1/blob/master/1.png?raw=true)
-
-## 题目2：如何join两张表
-
-## 题目3： xxxx
-
-## 题目4： xxxx
-17061527 徐鑫
-
