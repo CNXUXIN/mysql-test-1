@@ -22,6 +22,5 @@ mysql> SHOW DATABASES;
 ## 题目3： xxxx
 
 ## 题目4： xxxx
-I am 17061527
-xx
+17061527 徐鑫
 
