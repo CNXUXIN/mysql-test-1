@@ -16,7 +16,7 @@ mysql> SHOW DATABASES;
 +--------------------+
 9 rows in set (0.02 sec)
 ```
-!.[.].(https://github.com/CNXUXIN/mysql-test-1/blob/master/1.png)
+!.[.].(https://github.com/CNXUXIN/mysql-test-1/blob/master/1.png?raw=true)
 
 ## 题目2：如何join两张表
 
